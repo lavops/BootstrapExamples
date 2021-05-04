@@ -1,4 +1,4 @@
 # BootstrapExamples
 
 Practicing bootstrap:
- - [Landing Page Social Media](./1. Landing Page Social Medias)
+ - [Landing Page Social Media](./1.%20Landing%20Page%20Social%20Medias)
